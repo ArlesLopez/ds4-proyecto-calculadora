@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arles\\source\\repos\\ds4\\Proyecto1AppCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|c:\\users\\arles\\source\\repos\\ds4\\proyecto1appcalculadora\\proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|solutionrelative:proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Arles\\source\\repos\\ds4\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto1AppCalculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Arles\\source\\repos\\ds4\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto1AppCalculadora\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:07:38.882Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
