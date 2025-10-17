@@ -1,0 +1,10 @@
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\bin\Debug\Proyecto1AppCalculadora.exe.config
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\bin\Debug\Proyecto1AppCalculadora.exe
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\bin\Debug\Proyecto1AppCalculadora.pdb
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.Form1.resources
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.Properties.Resources.resources
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.csproj.GenerateResource.cache
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.exe
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.pdb
