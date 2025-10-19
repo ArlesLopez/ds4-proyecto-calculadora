@@ -1,6 +1,6 @@
 ﻿namespace Proyecto1AppCalculadora
 {
-    partial class Form1
+    partial class FrmCalculadora
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCalculadora));
             this.txtResultado = new System.Windows.Forms.TextBox();
             this.btnUno = new System.Windows.Forms.Button();
             this.btnDos = new System.Windows.Forms.Button();
@@ -326,13 +326,13 @@
             this.btnHistorial.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.btnHistorial.Location = new System.Drawing.Point(319, 56);
             this.btnHistorial.Name = "btnHistorial";
-            this.btnHistorial.Size = new System.Drawing.Size(39, 214);
+            this.btnHistorial.Size = new System.Drawing.Size(39, 211);
             this.btnHistorial.TabIndex = 20;
             this.btnHistorial.Text = "HISTORY";
             this.btnHistorial.UseVisualStyleBackColor = true;
             this.btnHistorial.Click += new System.EventHandler(this.btnHistorial_Click);
             // 
-            // Form1
+            // FrmCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -362,7 +362,7 @@
             this.Controls.Add(this.btnUno);
             this.Controls.Add(this.txtResultado);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "FrmCalculadora";
             this.Text = "Calculadora";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

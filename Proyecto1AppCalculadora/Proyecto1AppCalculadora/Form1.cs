@@ -13,15 +13,22 @@ using System.Windows.Forms;
 
 namespace Proyecto1AppCalculadora
 {
-    public partial class Form1 : Form
+    public partial class FrmCalculadora : Form
     {
         double numero1 =0 , numero2 =0 ;
         char operardor;
-        public Form1()
+        public FrmCalculadora()
         {
             InitializeComponent();
+            aplicarestilos();
         }
-
+        private void aplicarestilos()   
+        {
+            this.BackColor = Color.Black;
+            btnHistorial.BackColor = Color.White;
+            txtResultado.BackColor = Color.Silver;
+            
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
         
@@ -114,7 +121,7 @@ namespace Proyecto1AppCalculadora
 
         private void btnHistorial_Click(object sender, EventArgs e)
         {
-            var historial = new Form2();
+            var historial = new FrmHistorial();
             historial.Show();
 
         }

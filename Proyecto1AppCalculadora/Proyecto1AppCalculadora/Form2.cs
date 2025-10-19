@@ -12,13 +12,21 @@ using System.Windows.Forms;
 namespace Proyecto1AppCalculadora
 {
 
-    public partial class Form2 : Form
+    public partial class FrmHistorial : Form
     {
         string connectionString = @"Server=ASUSVIVOBOOX;Database=CalculadoraC#;TrustServerCertificate=True;Integrated Security=SSPI;";
-        public Form2()
+        public FrmHistorial()
         {
             InitializeComponent();
             CargarHistorial();
+            aplicarestilos();
+        }
+
+        private void aplicarestilos()
+        {
+            this.BackColor = Color.Black;
+            lstHisotorial.BackColor = Color.White;
+            lblHistorial.ForeColor = Color.White;
         }
         private void CargarHistorial()
         {
@@ -56,5 +64,7 @@ namespace Proyecto1AppCalculadora
         {
             this.Close();
         }
+
+       
     }
 }
