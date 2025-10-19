@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|solutionrelative:proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|c:\\users\\arles\\source\\repos\\proyecto\\proyecto1appcalculadora\\proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|solutionrelative:proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|c:\\users\\arles\\source\\repos\\proyecto\\proyecto1appcalculadora\\proyecto1appcalculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|solutionrelative:proyecto1appcalculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|c:\\users\\arles\\source\\repos\\proyecto\\proyecto1appcalculadora\\proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0243692D-565B-4676-8CE0-8E6BDC52E5FC}|Proyecto1AppCalculadora\\Proyecto1AppCalculadora.csproj|solutionrelative:proyecto1appcalculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1AppCalculadora\\Form1.cs",
               "ToolTip": "C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.cs*",
               "RelativeToolTip": "Proyecto1AppCalculadora\\Form1.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAjwD8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T04:09:12.725Z",
               "EditorCaption": ""
@@ -44,19 +40,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Proyecto1AppCalculadora\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.Designer.cs*",
-              "RelativeToolTip": "Proyecto1AppCalculadora\\Form1.Designer.cs*",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAhwBABAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T03:05:00.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Arles\\source\\repos\\Proyecto\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1AppCalculadora\\Form1.cs",
