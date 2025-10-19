@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.txtResultado = new System.Windows.Forms.TextBox();
             this.btnUno = new System.Windows.Forms.Button();
             this.btnDos = new System.Windows.Forms.Button();
@@ -290,6 +291,7 @@
             this.btnComa.Name = "btnComa";
             this.btnComa.Size = new System.Drawing.Size(45, 45);
             this.btnComa.TabIndex = 23;
+            this.btnComa.Tag = ",";
             this.btnComa.Text = ",";
             this.btnComa.UseVisualStyleBackColor = true;
             this.btnComa.Click += new System.EventHandler(this.btnComa_Click);
@@ -328,6 +330,7 @@
             this.btnHistorial.TabIndex = 20;
             this.btnHistorial.Text = "HISTORY";
             this.btnHistorial.UseVisualStyleBackColor = true;
+            this.btnHistorial.Click += new System.EventHandler(this.btnHistorial_Click);
             // 
             // Form1
             // 
@@ -358,6 +361,7 @@
             this.Controls.Add(this.btnDos);
             this.Controls.Add(this.btnUno);
             this.Controls.Add(this.txtResultado);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Calculadora";
             this.Load += new System.EventHandler(this.Form1_Load);

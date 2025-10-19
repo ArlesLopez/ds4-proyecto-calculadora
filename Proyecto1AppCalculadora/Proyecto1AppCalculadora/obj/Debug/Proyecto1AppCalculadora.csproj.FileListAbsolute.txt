@@ -9,3 +9,4 @@ C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalcula
 C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.exe
 C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.pdb
 C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.exe.config
+C:\Users\Arles\source\repos\Proyecto\Proyecto1AppCalculadora\Proyecto1AppCalculadora\obj\Debug\Proyecto1AppCalculadora.Form2.resources

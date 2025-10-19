@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Proyecto1AppCalculadora",
+    "\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora"
   ],
-  "SelectedNode": "\\Proyecto1AppCalculadora.sln",
+  "SelectedNode": "\\Proyecto1AppCalculadora\\Proyecto1AppCalculadora\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
