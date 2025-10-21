@@ -121,9 +121,10 @@ namespace Proyecto1AppCalculadora
 
         private void btnHistorial_Click(object sender, EventArgs e)
         {
-            var historial = new FrmHistorial();
-            historial.Show();
-
+            FrmHistorial historial = new FrmHistorial();
+            this.Hide();
+            historial.ShowDialog();
+            this.Show();
         }
 
         private void clickOperador(object sender, EventArgs e)
