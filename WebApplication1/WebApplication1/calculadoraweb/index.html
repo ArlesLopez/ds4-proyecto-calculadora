@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculadora Web con API</title>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+
+<body>
+
+    <h2>Calculadora Web (Proyecto API – Desarrollo de Software)</h2>
+
+    <div class="calculadora">
+        <input type="text" id="pantalla" disabled>
+
+        <div class="botones">
+
+            <!-- Primera fila -->
+            <button onclick="limpiar()">C</button>
+            <button onclick="borrar()">←</button>
+            <button onclick="operar('/')">÷</button>
+            <button onclick="operar('*')">×</button>
+
+            <!-- Segunda fila -->
+            <button onclick="agregar('7')">7</button>
+            <button onclick="agregar('8')">8</button>
+            <button onclick="agregar('9')">9</button>
+            <button onclick="operar('-')">−</button>
+
+            <!-- Tercera fila -->
+            <button onclick="agregar('4')">4</button>
+            <button onclick="agregar('5')">5</button>
+            <button onclick="agregar('6')">6</button>
+            <button onclick="operar('+')">+</button>
+
+            <!-- Cuarta fila -->
+            <button onclick="agregar('1')">1</button>
+            <button onclick="agregar('2')">2</button>
+            <button onclick="agregar('3')">3</button>
+            <button class="igual" onclick="calcular()">=</button>
+
+            <!-- Quinta fila -->
+            <button class="cero" onclick="agregar('0')">0</button>
+            <button onclick="agregar('.')">.</button>
+
+        </div>
+    </div>
+
+    <h3>Historial de Operaciones</h3>
+    <button onclick="cargarHistorial()">Cargar Historial</button>
+
+    <table id="historial"></table>
+    <nav></nav>
+    <script src="app.js"></script>
+
+
+</body>
+</html>
